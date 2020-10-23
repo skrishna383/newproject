@@ -1,3 +1,3 @@
 # newproject
 
-First comment
+First comment of the day
